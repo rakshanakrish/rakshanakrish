@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Rakshana Krish
+# Hi there! 👋 I'm Rakshana 
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and building innovative solutions. Explore my repositories to see the projects I’ve worked on, my skills, and my contributions to the open-source community.
 
