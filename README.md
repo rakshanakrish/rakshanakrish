@@ -19,7 +19,7 @@ Here are some of my favorite projects:
 
 - [**LLM Caching in LangChain**](https://github.com/rakshanakrish/LLM-caching-in-langchain): Optimizing LLM performance with caching in the LangChain framework.  
 - [**Image Search Engine**](https://github.com/rakshanakrish/ImageSearchEngine1): Predicts the similar images.  
-- [**Project 3 Name**](#): Brief description of another key project.  
+- [**Prediction using supervised learning**](https://github.com/rakshanakrish/Prediction-using-supervised-ml-LinearRegression-): Prediction using linear regression.
 
 Check out the rest of my repositories [here](https://github.com/rakshanakrish?tab=repositories).
 
