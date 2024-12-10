@@ -43,7 +43,7 @@ Check out the rest of my repositories [here](https://github.com/rakshanakrish?ta
 
 - **Email**: [rakshanakrishnan42@gmail.com](mailto:rakshanakrishnan42@gmail.com)
 - **LinkedIn**: [Rakshana Krishnan](www.linkedin.com/in/rakshanakrishnan19)
-- **Twitter**: [@rakshanakrish]((https://x.com/rakshanakrish))
+- **X**: [@rakshanakrish](https://x.com/rakshanakrish)
 
 ---
 
