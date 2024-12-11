@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and build
 - **Frameworks**: LangChain, Django 
 - **Tools**: Git, VS Code, Postman  
 - **Databases**: MySQL
--
+- **Data Visualization**: Power BI
 
 ---
 
