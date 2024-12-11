@@ -7,9 +7,10 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and build
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, Java, C  
-- **Frameworks**: LangChain, Django, React  
-- **Tools**: Git, Docker, VS Code, Postman  
-- **Databases**: MySQL, MongoDB  
+- **Frameworks**: LangChain, Django 
+- **Tools**: Git, VS Code, Postman  
+- **Databases**: MySQL
+-
 
 ---
 
