@@ -37,6 +37,7 @@ Check out the rest of my repositories [here](https://github.com/rakshanakrish?ta
 - Advanced techniques in Machine Learning and LLMs
 - Distributed Systems and Scalability
 - Cloud Platforms (AWS, GCP)
+- Dashboard creating using power BI
 
 ---
 
