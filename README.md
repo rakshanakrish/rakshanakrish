@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and build
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, Java, C  
+- **Languages**: Python, Java
 - **Frameworks**: LangChain, Django 
 - **Tools**: Git, VS Code, Postman  
 - **Databases**: MySQL
